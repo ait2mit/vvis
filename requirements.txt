@@ -27,7 +27,6 @@ h5py==2.8.0
 itsdangerous==0.24
 Jinja2==2.10
 Markdown==2.6.11
-MarkupSafe==1.0
 protobuf==3.6.1
 PyYAML==3.13
 termcolor==1.1.0
